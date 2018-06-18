@@ -13,6 +13,9 @@ https://www.tutorialspoint.com/haskell/index.htm
 
 http://learnyouahaskell.com/chapters
 
+This eBook changed my life
+https://leanpub.com/gameinhaskell
+
 ## Concepts
 https://brilliant.org/wiki/merkle-tree/
 
